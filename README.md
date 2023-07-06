@@ -21,6 +21,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-novaes-460834173)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fnovaes_)
-![snake gif](https://github.com/FlavioNovaes/FlavioNovaes/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/FlavioNovaes/FlavioNovaes/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=256FFF&height=120&section=footer"/>
