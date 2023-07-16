@@ -4,7 +4,7 @@
 
 - 🔭 Tenho interesse na área de front-end
 - 🌱 Estudando HTML, CSS e Python
-- 📫 Contato: flavio.novaes29@gmail.com
+- 📫 Contato: flavio.novaes29@gmail.coma
 
 <div>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FlavioNovaes&show_icons=true">
