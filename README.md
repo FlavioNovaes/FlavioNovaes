@@ -3,7 +3,7 @@
 ## E aí! Eu sou o Flávio ✌
 
 - 🔭 Tenho interesse na área de front-end
-- 🌱 Estudando HTML, CSS e Python
+- 🌱 Estudando HTML, CSS, Python e C#
 - 📫 Contato: flavio.novaes29@gmail.com
 
 <div>
