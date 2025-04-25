@@ -10,8 +10,8 @@
 ## GitHub Stats
 
 <div>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FlavioNovaes&show_icons=true">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FlavioNovaes&show_icons=true&theme=github_dark_dimmed">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes&theme=github_dark_dimmed">
 </div>
 
 ## Contato
