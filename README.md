@@ -10,12 +10,13 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FlavioNovaes&show_icons=true">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes">
 </div>
+"
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css" />
+  </a>
+</p>
 
-<div>
-  <p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
-  </p>
-</div>
 ##
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-novaes-460834173)
