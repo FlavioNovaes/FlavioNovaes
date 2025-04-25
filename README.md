@@ -11,11 +11,7 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes">
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,django,html,css" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
 
 ##
 
