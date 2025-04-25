@@ -3,8 +3,7 @@
 ## E aí! Eu sou o Flávio ✌
 
 - 🔭 Interessado na área back-end Python.
-- 🌱 Estudando HTML, CSS, Python.
-- 📫 Contato: flavio.novaes29@gmail.com
+- 🌱 Estudando HTML, CSS, Python e Flet.
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
 
