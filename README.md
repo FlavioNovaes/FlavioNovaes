@@ -15,9 +15,9 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes">
 </div>
 
-##
+## Contato
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fl%C3%A1vio-novaes-460834173)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/fnovaes_)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=flavio.novaes29@gmail.com&su=SUBJECT&body=BODY&bcc=flavio.novaes29@gmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=256FFF&height=120&section=footer"/>
