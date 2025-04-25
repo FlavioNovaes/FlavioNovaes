@@ -6,12 +6,14 @@
 - 🌱 Estudando HTML, CSS, Python.
 - 📫 Contato: flavio.novaes29@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
+
+## GitHub Stats
+
 <div>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FlavioNovaes&show_icons=true">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes">
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
 
 ##
 
