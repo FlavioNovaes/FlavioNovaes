@@ -10,17 +10,12 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FlavioNovaes&show_icons=true">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes">
 </div>
-"
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
 
 ##
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-novaes-460834173)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fnovaes_)
-![snake gif](https://github.com/FlavioNovaes/FlavioNovaes/blob/output/github-contribution-grid-snake.gif)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fl%C3%A1vio-novaes-460834173)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/fnovaes_)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=256FFF&height=120&section=footer"/>
