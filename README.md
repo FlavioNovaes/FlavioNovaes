@@ -2,7 +2,7 @@
 
 ## Flávio Novaes
 
-- 🔭 Interessado na área FullStack.
+- 🔭 Desenvolvedor Full Stack.
 - 🌱 Estudando HTML, CSS, Python e JavaScript.
 
 ## ⌨️ Skills
