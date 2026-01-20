@@ -6,7 +6,7 @@
 - 🌱 Estudando HTML, CSS, Python e JavaScript.
 
 ## ⌨️ Skills
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,py,django,html,css,js,nodejs&perline=3)](https://skillicons.dev)
 
 ## 💻 GitHub Stats
 
