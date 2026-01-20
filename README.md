@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=256FFF&height=120&section=header"/>
 
-## E aí! Eu sou o Flávio ✌
+## Flávio Novaes
 
-- 🔭 Interessado na área back-end Python.
-- 🌱 Estudando HTML, CSS, Python e Flet.
+- 🔭 Interessado na área FullStack.
+- 🌱 Estudando HTML, CSS, Python e JavaScript.
 
 ## ⌨️ Skills
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,sqlite,django,html,css&perline=3)](https://skillicons.dev)
