@@ -8,13 +8,6 @@
 ## ⌨️ Skills
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,py,django,html,css,js,nodejs&perline=3)](https://skillicons.dev)
 
-## 💻 GitHub Stats
-
-<div>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=FlavioNovaes&layout=compact&show_icons=true&theme=github_dark">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioNovaes&layout=compact&theme=github_dark">
-</div>
-
 ## 📧 Contato
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fl%C3%A1vio-novaes-460834173)
